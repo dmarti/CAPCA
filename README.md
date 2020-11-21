@@ -33,36 +33,44 @@ law, and even of their own policies, because they can get away with it.
 Social media services are designed with "filter bubbles" to show
 specific content to specific individuals. 
 
+The big picture problems of social media are the
+subject of much active research and debate. While 
+this is important work in academic and policy circles,
+the need for research must not be allowed to delay some
+quickly achieveable improvements.
+
 Although the main victims of social media practices are users, the under-rated
 victims are the advertisers who unknowingly pay to sponsor
-illegal activity.  Filter bubbles enable social media companies to sell
+illegal activity.  Social media companies sell
 a secretly adulterated product&mdash;ad placements on activity that
 the advertiser would not choose to sponsor if aware of it.
 
-Advertisers seldom choose to sponsor illegal activity
-and typically pull their ads when they do discover it.
+Advertisers seldom choose to place their advertising on illegal activity
+and typically pull their ads when they discover it.
 However, social media companies are failing to inform
-advertisers when they sponsor illegal activity, even
-when advertisers are clearly taking reputational risks
-on content that the social media companies themselves
+advertisers when the advertisers do sponsor illegal activity, even
+when advertisers are supporting content that social media companies themselves
 will not associate with their end-user-facing brands.
 
-On social media sites, it is impractical or prohibited
-by terms of service for
-advertisers, especially small businesses, to monitor
-every piece of content that their ads support. Ads
-and content are connected automatically and users may
+It is impractical, or prohibited
+by terms of service, for
+advertisers to monitor
+every piece of content that their ads are associated with
+on social media sites. Ads
+and content are associated automatically, and users may
 see the same ad in association with many different
 pieces of content.
 
 Advertisers pay the bills for illegal activity because
 they lack the information they would need to stop
-doing so. 
+doing so.  Social media companies have the needed information already,
+and need to disclose it.
 
 ## Solution - Please describe the proposal and how the proposal would address the problem (please be specific, citing existing law if possible)
 
-When content is removed or limited in circulation,
-a social media platform must
+When a social media platform takes action to remove
+content or substantially limit its circulation,
+the social media platform must
 disclose to the advertisers affected:
 
  * What content was removed
@@ -73,7 +81,7 @@ disclose to the advertisers affected:
 
  * How many users were affected, if known
 
- * The amount that the advertiser was charged
+ * The amount that the advertiser was charged for their placement on the content
 
 If the illegal content was another advertisement,
 disclose to nearby advertisers.  For example, if a
@@ -89,18 +97,16 @@ is not allowed to be displayed in Germany, and the
 ad is shown to users in Germany before the video is
 blocked there, then the California advertiser should
 be notified even if the video is still available to
-users in California.  This is about protecting a brand
-owner's reputation as seen by the audience they are
-paying to reach, not about the speech-related laws
-of particular countries.
+users in California.  The problem being addressed by
+this proposal is the advertiser's
+reputation as seen by the audience they are
+paying to reach.
 
 This disclosure would be similar
 to the existing [Data Security Breach
 Reporting](https://oag.ca.gov/privacy/databreach/reporting)
 required under  (California Civil Code s. 1798.29(a)
 [agency] and California Civ. Code s. 1798.82(a).
-
-
 
 ## Cost - Please describe the estimated cost of proposal and identify the entity that would pay for the proposal. If state would pay, please identify a source for the funding and where you would recommend cutting state spending to pay for the proposal.
 
@@ -112,21 +118,26 @@ California users and that accept advertising from
 thousands of California advertisers.
 
 The cost of compliance would be minimal, as social
-media companies already have the information that
-they would be required to disclose, for their own
-internal reporting purposes.  And the companies already
-maintain a reporting interface for their advertisers.
+media companies already have the information
+that they would be required to disclose.
+They use this for their own internal reporting
+purposes and to contribute to industry forums.
+For example, one company showed the extent
+of this data collection by discussing [research on ad
+adjacency](https://www.adexchanger.com/platforms/facebook-has-fewer-brand-safety-controls-for-news-feed-ads-on-purpose/).
+And the companies already maintain a convenient
+online reporting interface for their advertisers.
+
 The proposal could be implemented as simply as by
 adding an HTML table and a text notification to an
 existing "advertiser dashboard" web application.
-
 The actual cost for implementation by each firm
-affected would be under $1 million.
+affected would be under $50,000.
 
 After social media companies begin the required
 disclosures under this proposal, they would likely
-have to accelerate their existing plans to fix
-under-resourced moderation and ad review. The cost
+have to accelerate their existing plans to improve what are now
+under-resourced moderation and ad review functions. The cost
 of this follow-on work would depend on a variety of
 compensation decisions, but would likely involve
 hiring of technical, policy, and subject matter
@@ -141,10 +152,11 @@ experts in the state of California.
    who cannot legally own them.)
 
  * Small business.  Many local retailers and real estate agents have a difficult
-   choice. If they avoid sponsoring criminal activity by refraining from advertising
-   on social media, they must give up an easy self-serve tool to reach local customers.
+   choice.  Today, they can only avoid sponsoring criminal activity by refraining from advertising
+   on social media entirely. This would require them to give up an easy self-serve tool to reach local customers.
    Disclosure would enable each business decision maker to buy advertising based on
-   their own comfort level
+   their own values and on which content is delivered to their actual customers.
+
 
 ## Arguments in Support - Please identify the top three arguments in support of the proposal.
 
@@ -166,10 +178,12 @@ experts in the state of California.
    some content in error, including content that
    advertisers would want to continue to support.
 
- * Accountability is good for public health.
+ * In pandemic times, rapid accountability for social media advertising is good for public health.
    Much of the material that is eventually removed from social media
    sites turns out to be either an ordinary scam based on people's health concerns,
-   or active disinformation about a health-related conspiracy theory.
+   or active disinformation about a health-related conspiracy theory.  When legitimate
+   health care brands are aware of, and able to disconnect from, misleading health content,
+   consumers are less likely to be confused by misleading messages.
 
  * Because this proposal is simple and could take effect quickly, it can
    help inform other work by advertisers, social media companies,
@@ -194,8 +208,9 @@ experts in the state of California.
 
  * Disclosure will distract social media companies from other law and policy enforcement
    projects.  **See the costs section. This proposal requires only a small amount
-   of work, to expose to advertisers a set of data that already exists within
-   social media companies.  It would likely be carried out by an advertiser reporting
+   of work, to expose to advertisers a set of data [that already exists within
+   social media companies](https://www.adexchanger.com/platforms/facebook-has-fewer-brand-safety-controls-for-news-feed-ads-on-purpose/).
+   It would likely be carried out by an advertiser reporting
    team, not the developers who work on moderation and public interest projects.**
 
  * Advertisers who are concerned about the environment
@@ -216,7 +231,8 @@ experts in the state of California.
 
 # Additional material
 
- * How to define an association between ad and content: borrow viewability standards from [IAB Measurement Guidelines](https://www.iab.com/guidelines/iab-measurement-guidelines/)?
+ * Industry standards for defining relationships between ad and content already exist. For
+   example, see: [IAB Measurement Guidelines](https://www.iab.com/guidelines/iab-measurement-guidelines/)?
 
  * Related: [RECOMMENDED NEXT STEPS | Stop Hate for Profit](https://www.stophateforprofit.org/productrecommendations) <q>Provide audit of and refund to advertisers whose ads were shown next to content that was later removed for violations of terms of service.</q>
 
