@@ -1,12 +1,19 @@
 # CAPCA
 
-This is a draft, intended to be submitted as a legislative proposal for  [Legislative Proposal Request | Official Website - Assemblyman Rob Bonta Representing the 18th California Assembly District](https://a18.asmdc.org/legislative-proposal-request)
+This is a legislative proposal for  [Legislative Proposal Request | Official Website - Assemblyman Rob Bonta Representing the 18th California Assembly District](https://a18.asmdc.org/legislative-proposal-request)
+
+Submitted by
+
+**David Gunderman**, Broker Associate - Keller Williams Luxury International Realty
+
+**Don Marti**, blogger and web developer
 
 
 ## Proposal Summary - Please describe the proposal in one sentence 
 
 Require large social media companies to notify advertisers when their
 ads are shown on illegal or policy-violating content.
+
 
 ## Problem - Please describe the problem(s) that the proposal would address (please be specific, with supporting data and sources)
 
@@ -21,8 +28,10 @@ including
 
  * [international terrorist recruiting material](https://apnews.com/article/f97c24dab4f34bd0b48b36f2988952a4)
 
+ * [false information about divisive issues](https://www.buzzfeednews.com/article/ryanmac/facebook-rules-hate-speech-employees-leaving)
+
 Besides the high-profile political controversy that these large companies are best known for,
-social media platforms also host ordinary crimes, including
+social media platforms also host [other crimes and scams](https://www.buzzfeednews.com/article/craigsilverman/facebook-ad-scams-revenue-china-tiktok-vietnam), including
 
  * [child abuse material](https://www.foxglove.org.uk/news/open-letter-from-content-moderators-re-pandemic)
 
@@ -30,14 +39,15 @@ social media platforms also host ordinary crimes, including
 
 Social media companies choose to under-invest in implementation of the
 law, and even of their own policies, because they can get away with it.
-Social media services are designed with "filter bubbles" to show
-specific content to specific individuals. 
+Social media services design their systems with "filter bubbles" to show
+specific content to specific individuals, and to hide illegal activity
+from the advertisers whose ads pay for it.
 
 The big picture problems of social media are the
 subject of much active research and debate. While 
 this is important work in academic and policy circles,
 the need for research must not be allowed to delay some
-quickly achieveable improvements.
+quickly achievable improvements.
 
 Although the main victims of social media practices are users, the under-rated
 victims are the advertisers who unknowingly pay to sponsor
@@ -46,7 +56,7 @@ a secretly adulterated product&mdash;ad placements on activity that
 the advertiser would not choose to sponsor if aware of it.
 
 Advertisers seldom choose to place their advertising on illegal activity
-and typically pull their ads when they discover it.
+and often pull their ads when they discover it.
 However, social media companies are failing to inform
 advertisers when the advertisers do sponsor illegal activity, even
 when advertisers are supporting content that social media companies themselves
@@ -68,9 +78,9 @@ and need to disclose it.
 
 ## Solution - Please describe the proposal and how the proposal would address the problem (please be specific, citing existing law if possible)
 
-When a social media platform takes action to remove
+When a social media company takes action to remove
 content or substantially limit its circulation,
-the social media platform must
+the social media company must
 disclose to the advertisers affected:
 
  * What content was removed
@@ -97,16 +107,10 @@ is not allowed to be displayed in Germany, and the
 ad is shown to users in Germany before the video is
 blocked there, then the California advertiser should
 be notified even if the video is still available to
-users in California.  The problem being addressed by
-this proposal is the advertiser's
-reputation as seen by the audience they are
+users in California.  
+The advertiser's
+reputation is being affected from the point of view of the audience they are
 paying to reach.
-
-This disclosure would be similar
-to the existing [Data Security Breach
-Reporting](https://oag.ca.gov/privacy/databreach/reporting)
-required under  (California Civil Code s. 1798.29(a)
-[agency] and California Civ. Code s. 1798.82(a).
 
 ## Cost - Please describe the estimated cost of proposal and identify the entity that would pay for the proposal. If state would pay, please identify a source for the funding and where you would recommend cutting state spending to pay for the proposal.
 
@@ -118,11 +122,12 @@ California users and that accept advertising from
 thousands of California advertisers.
 
 The cost of compliance would be minimal, as social
-media companies already have the information
+media companies already collect, store, and report
+on the information
 that they would be required to disclose.
 They use this for their own internal reporting
 purposes and to contribute to industry forums.
-For example, one company showed the extent
+One company showed the extent
 of this data collection by discussing [research on ad
 adjacency](https://www.adexchanger.com/platforms/facebook-has-fewer-brand-safety-controls-for-news-feed-ads-on-purpose/).
 And the companies already maintain a convenient
@@ -130,7 +135,8 @@ online reporting interface for their advertisers.
 
 The proposal could be implemented as simply as by
 adding an HTML table and a text notification to an
-existing "advertiser dashboard" web application.
+existing "advertiser dashboard" web application, along
+with a database query to support it.
 The actual cost for implementation by each firm
 affected would be under $50,000.
 
@@ -174,8 +180,8 @@ experts in the state of California.
    take action on notifications and continues to
    support content related to Insane Clown Posse,
    no new law should interfere with their ability to
-   do so.  Social platforms also remove or restrict
-   some content in error, including content that
+   do so.  Social media companies also sometimes remove or restrict
+   content in error, including content that
    advertisers would want to continue to support.
 
  * In pandemic times, rapid accountability for social media advertising is good for public health.
@@ -203,7 +209,6 @@ experts in the state of California.
    large social sites to spread violence and disease in the USA.
 
 
-
 ## Arguments in Opposition - Please identify the top three arguments in opposition to the proposal.
 
  * Disclosure will distract social media companies from other law and policy enforcement
@@ -222,7 +227,7 @@ experts in the state of California.
    media companies could force such tools to shut
    down](https://www.wsj.com/articles/facebook-seeks-shutdown-of-nyu-research-project-into-political-ad-targeting-11603488533).**
 
- * Advertisers have not demanded these reports yet.
+ * Most advertisers have not demanded these reports yet.
    **Social media crime and disinformation is an issue of growing
    concern, as shown by advertiser boycott activity this summer.
    Advertisers who choose not to act on the reports required by
@@ -232,7 +237,7 @@ experts in the state of California.
 # Additional material
 
  * Industry standards for defining relationships between ad and content already exist. For
-   example, see: [IAB Measurement Guidelines](https://www.iab.com/guidelines/iab-measurement-guidelines/)?
+   example, see: [IAB Measurement Guidelines](https://www.iab.com/guidelines/iab-measurement-guidelines/)
 
  * Related: [RECOMMENDED NEXT STEPS | Stop Hate for Profit](https://www.stophateforprofit.org/productrecommendations) <q>Provide audit of and refund to advertisers whose ads were shown next to content that was later removed for violations of terms of service.</q>
 
