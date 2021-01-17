@@ -1,12 +1,14 @@
 # CAPCA
 
+## California Advertising Placements on Criminal Activity Act
+
 This is a legislative proposal for  [Legislative Proposal Request | Official Website - Assemblyman Rob Bonta Representing the 18th California Assembly District](https://a18.asmdc.org/legislative-proposal-request)
 
 Submitted by
 
 **David Gunderman**, Broker Associate - Keller Williams Luxury International Realty
 
-**Don Marti**, blogger and web developer
+**Don Marti**, blogger and web developer. 
 
 
 ## Proposal Summary - Please describe the proposal in one sentence 
@@ -107,7 +109,7 @@ is not allowed to be displayed in Germany, and the
 ad is shown to users in Germany before the video is
 blocked there, then the California advertiser should
 be notified even if the video is still available to
-users in California.  
+users in California.
 The advertiser's
 reputation is being affected from the point of view of the audience they are
 paying to reach.
