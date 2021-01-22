@@ -243,3 +243,4 @@ experts in the state of California.
 
  * Related: [RECOMMENDED NEXT STEPS | Stop Hate for Profit](https://www.stophateforprofit.org/productrecommendations) <q>Provide audit of and refund to advertisers whose ads were shown next to content that was later removed for violations of terms of service.</q>
 
+ * [Six Constitutional Hurdles for Platform Speech Regulation | Center for Internet and Society](https://cyberlaw.stanford.edu/blog/2021/01/six-constitutional-hurdles-platform-speech-regulation-0)
