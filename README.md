@@ -38,6 +38,8 @@ social media platforms also host [other crimes and scams](https://www.buzzfeedne
  * [child abuse material](https://www.foxglove.org.uk/news/open-letter-from-content-moderators-re-pandemic)
 
  * [personal finance scams](https://www.bbc.com/news/technology-46972940)
+ 
+ * [copyright infringement](https://arstechnica.com/features/2021/01/how-one-musician-took-on-the-worlds-biggest-tv-network-over-copyright-and-won/)
 
 Social media companies choose to under-invest in implementation of the
 law, and even of their own policies, because they can get away with it.
