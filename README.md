@@ -50,8 +50,8 @@ from the advertisers whose ads pay for it.
 The big picture problems of social media are the
 subject of much active research and debate. While 
 this is important work in academic and policy circles,
-the need for research must not be allowed to delay some
-quickly achievable improvements.
+the need for research must not be allowed to delay a much-needed remedy
+for local California businesses.
 
 Although the main victims of social media practices are users, the under-rated
 victims are the advertisers who unknowingly pay to sponsor
@@ -82,7 +82,7 @@ and need to disclose it.
 
 ## Solution - Please describe the proposal and how the proposal would address the problem (please be specific, citing existing law if possible)
 
-When a social media company takes action to remove
+We propose a new common-sense requirement for large social media companies: When a company takes action to remove
 content or substantially limit its circulation,
 the social media company must
 disclose to the advertisers affected:
@@ -98,7 +98,7 @@ disclose to the advertisers affected:
  * The amount that the advertiser was charged for their placement on the content
 
 If the illegal content was another advertisement,
-disclose to nearby advertisers.  For example, if a
+the company should disclose to nearby advertisers.  For example, if a
 real mortgage broker had their ad run along with an ad
 for a cryptocurrency scam, and the cryptocurrency scam
 ad is removed, the mortgage broker should be informed.
@@ -145,8 +145,8 @@ The actual cost for implementation by each firm
 affected would be under $50,000.
 
 After social media companies begin the required
-disclosures under this proposal, they would likely
-have to accelerate their existing plans to improve what are now
+disclosures under this proposal, they might choose
+to accelerate their existing plans to improve what are now
 under-resourced moderation and ad review functions. The cost
 of this follow-on work would depend on a variety of
 compensation decisions, but would likely involve
@@ -161,7 +161,7 @@ experts in the state of California.
    a problem at the local level. (For example, [private gun sales](https://www.protocol.com/facebook-gun-sales-ban) on social media can result in weapons becoming available to those
    who cannot legally own them.)
 
- * Small business.  Many local retailers and real estate agents have a difficult
+ * Small business.  Many local businesses, including retailers and real estate professionals, have a difficult
    choice.  Today, they can only avoid sponsoring criminal activity by refraining from advertising
    on social media entirely. This would require them to give up an easy self-serve tool to reach local customers.
    Disclosure would enable each business decision maker to buy advertising based on
@@ -173,8 +173,7 @@ experts in the state of California.
  * Reporting protects First Amendment rights of
    social media users and advertisers. Some
    advertisers may choose to continue to support
-   controversial material, or material that is
-   later removed for legal reasons.  For example,
+   controversial material.  For example,
    [fans of the rap group Insane Clown Posse were
    listed as a gang by the National Gang Intelligence
    Center](https://en.wikipedia.org/wiki/Insane_Clown_Posse#2013%E2%80%9314:_Continued_legal_troubles).
@@ -192,12 +191,12 @@ experts in the state of California.
    Much of the material that is eventually removed from social media
    sites turns out to be either an ordinary scam based on people's health concerns,
    or active disinformation about a health-related conspiracy theory.  When legitimate
-   health care brands are aware of, and able to disconnect from, misleading health content,
+   health care providers are aware of, and able to disconnect from, misleading health content,
    consumers are less likely to be confused by misleading messages.
 
  * Because this proposal is simple and could take effect quickly, it can
    help inform other work by advertisers, social media companies,
-   and policymakers.  While questions of how best to operate
+   and policymakers.  While questions of how best to design, operate
    and moderate social media sites are still actively researched,
    this proposal provides a simple way to keep stakeholders informed on the state of
    progress.
@@ -233,7 +232,7 @@ experts in the state of California.
 
  * Most advertisers have not demanded these reports yet.
    **Social media crime and disinformation is an issue of growing
-   concern, as shown by advertiser boycott activity this summer.
+   concern.
    Advertisers who choose not to act on the reports required by
    this proposal would not have to.**
 
