@@ -8,7 +8,7 @@ Submitted by
 
 **David Gunderman**, Broker Associate - Keller Williams Luxury International Realty
 
-**Don Marti**, blogger and web developer. 
+**Don Marti**, web advertising professional 
 
 
 ## Proposal Summary - Please describe the proposal in one sentence 
